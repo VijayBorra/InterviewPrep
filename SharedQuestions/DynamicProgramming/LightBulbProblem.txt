@@ -1,1 +1,3 @@
+We have an array of light bulbs represented as an array of integers. A value of 1 for an index represents that the light is on and 0 represents that the light is off. We have k attempts to use the function batchSwap(int beginIndex, int toIndex).  The function swaps 0->1 and 1->0 for all indexes b/w beginIndex and toIndex
 
+Find the most optimal strategy so that we have the maximum number of lights on.
